@@ -1,6 +1,6 @@
 # Phantoms
 
-For all my coil (and general RF hardware developments) I've needed to make a variety of phantoms or edit other phantoms developed by other groups. I've found them very useful for bench testing and phantom experiments. I'm putting up some of the STL files here. I mostly use Autodesk Inventor so please email me if you would like the .ipt file.
+For all my coil (and general RF hardware developments) I've needed to make a variety of phantoms or modify phantoms developed by other groups. I've found them very useful for bench testing and phantom experiments to validate hardware. I'm putting up some of the STL files here. I mostly use Autodesk Inventor so please email me if you would like the .ipt file.
 
 The macaque file is is half and then I mirrored and printed the second half.
 
